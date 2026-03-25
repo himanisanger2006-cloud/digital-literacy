@@ -57,7 +57,7 @@ The project includes five tasks, each focusing on different aspects of digital l
 #### 📊 Part B: Google Form
 - Created a Digital Literacy Awareness Quiz  
 - Connected responses to Google Sheets  
-- 🔗 [View Form](https://docs.google.com/forms/d/e/1FAIpQLSf4O-Y_CwEs0FsC4H2KbeHFR07-gIAWFQw48QFjiR4iS4dtMA/viewform?usp=header)
+- 🔗 [View Form](https://docs.google.com/forms/d/e/1FAIpQLSeBIbdPrj6zt60gnV5suZglUZGrk1GwYAkAaPe39P1P2P4LGA/viewform?usp=publish-editor)
 
 📁 **Folder:** `task-3-platforms/`
 

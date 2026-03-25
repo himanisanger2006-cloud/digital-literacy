@@ -1,8 +1,8 @@
 # 📌 Digital Literacy Project – CSE0001
 
-**Name:** Mohit Yadav  
-**Registration Number:** [Your Reg No.]  
-**Branch:** [Your Branch]  
+**Name:** Himani sanger  
+**Registration Number:** [25BAI11293]  
+**Branch:** [B.Tech CSE AI ML]  
 **Year:** 1st Year  
 **Course Code:** CSE0001  
 **Course Title:** Digital Literacy  
